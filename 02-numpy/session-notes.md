@@ -1,0 +1,1 @@
+*I have learned the basics of the numpy library and i will give some code examples soon*
